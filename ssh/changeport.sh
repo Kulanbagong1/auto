@@ -32,7 +32,7 @@ echo -e "[12]. Ganti Port Trojan-GO"
 echo -e "[12]. Ganti Port GRPC"
 echo -e "[00]. Menu"
 echo -e "\033[1;31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
-echo -e "\E[46;1;46m            🔰 LUXURY EDITION BY ZEROSSL 🔰             \E[0m"
+echo -e "\E[46;1;46m            🔰 LUXURY EDITION BY VPN JKLO 🔰             \E[0m"
 echo -e "\033[1;31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 read -p "Silahkan Pilih Angka [ 1-0 ] : " port
 echo -e ""
