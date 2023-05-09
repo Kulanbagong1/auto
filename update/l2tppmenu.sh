@@ -59,7 +59,7 @@ echo -e "0\e[1;31m) Menu Utama \e[m"
 echo -e "\033[1;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 echo -e "x\e[1;31m) Keluar \e[m"
 echo -e "\033[1;31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
-echo -e "\E[46;1;46m            🔰 LUXURY EDITION BY ZEROSSL 🔰             \e[0m"
+echo -e "\E[46;1;46m            🔰 LUXURY EDITION BY Vpn JKLO 🔰             \e[0m"
 echo -e "\033[1;31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 echo -e "\e[1;31m ⇱ Select Number From [ 1 - 0 ] ⇲ \e[m"
 read -p " ⇱ Silahkan Pilih Angka [ 1 - 0 ] ⇲ : " menu
