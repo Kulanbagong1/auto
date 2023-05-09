@@ -1,5 +1,5 @@
 #!/bin/bash
-# My Telegram : https://t.me/zerossl
+# Wa : +6283160045408
 # ==========================================
 # Color
 RED='\033[0;31m'
@@ -100,15 +100,15 @@ Tanggal : $date
 " | mail -s "Percobaan Pengiriman Email" $email
 }
 clear
-echo -e "=============================="
+echo -e "\033[1;31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 echo -e "     Autobackup Data $sts     "
-echo -e "=============================="
+echo -e "\033[1;31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 echo -e "1. Start Autobackup"
 echo -e "2. Stop Autobackup"
 echo -e "3. Ganti Email Penerima"
 echo -e "4. Ganti Email Pengirim"
 echo -e "5. Test kirim Email"
-echo -e "=============================="
+echo -e "\033[1;31m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 read -rp "Please Enter The Correct Number : " -e num
 case $num in
 1)
@@ -130,3 +130,7 @@ testemail
 clear
 ;;
 esac
+
+
+
+
