@@ -30,7 +30,7 @@ echo -e "2\e[1;33m) Hapus Akun L2TP \e[m"
 echo -e "3\e[1;33m) Perpanjang Masa Aktif Akun L2TP \e[m"
 echo -e "0\e[1;31m) Menu Utama \e[m"
 echo -e "x\e[1;31m) Keluar \e[m"
-echo -e "\033[1;46m══════Luxury Edition by ZEROSSL══\033[0m"
+echo -e "\033[1;46m══════Luxury Edition by Vpn JKLO══\033[0m"
 read -p "Silahkan Pilih Angka [ 1 - 0 ] : " menu
 echo -e ""
 case $menu in
